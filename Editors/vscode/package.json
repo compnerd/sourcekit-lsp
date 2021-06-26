@@ -37,7 +37,7 @@
         "@types/vscode": "^1.52.0",
         "esbuild": "^0.12.9",
         "typescript": "^4.1.3",
-        "vsce": "^1.81.1"
+        "vsce": "^1.95.0"
     },
     "contributes": {
         "configuration": {
